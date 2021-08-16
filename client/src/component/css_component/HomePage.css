@@ -1,0 +1,30 @@
+
+.col1{
+margin-top: 20px;
+width: 100vh;
+}
+ .icons1{
+ background-color:rgba(0,0,0,.55); 
+ color:white;
+ margin-left: 70px;
+ margin-right:40px;
+}
+.icons2{
+background-color:rgb(250, 87, 27); 
+margin-right:40px;
+   }
+.icons3{
+background-color:   #023c57; 
+}  
+.icons1:hover{
+   transform: scale(1.1);
+  transition: transform .5s ease-in; 
+ }
+ .icons2:hover{
+  transform: scale(1.1);
+ transition: transform .5s ease-in; 
+}
+.icons3:hover{
+transform: scale(1.1);
+transition: transform .5s ease-in; 
+}

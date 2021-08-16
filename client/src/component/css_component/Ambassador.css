@@ -1,0 +1,36 @@
+.ambss:hover{
+    transform: scale(1.1);
+    transition: transform .5s ease-in; 
+}
+.ambss{
+ background-color:#023c57;
+ color:blanchedalmond;
+ width:900px;
+ margin-top:130px;
+ margin-bottom:50px;
+ margin-left:230px;
+ margin-right:80px;
+ padding-bottom: 15px;
+ border: 2px solid white ;
+ border-radius:  50px 20px ;
+}
+.ambss h1 {
+  margin-left:315px ;
+ padding-top: 20px;
+}
+.ambss img {
+   margin-left: 330px;
+    width:200px;
+    height:200px;
+    border-radius:30px;
+    
+}
+.ambss p {
+    margin-left:80px; 
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-right: 20px;
+    font-family:Arial;
+    text-align:justify;
+
+}
