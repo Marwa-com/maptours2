@@ -1,2 +1,2 @@
 # maptours2
-https://maptours2.herokuapp.com
+https://maptours2.herokuapp.com/
